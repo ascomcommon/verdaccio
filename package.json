@@ -1,16 +1,7 @@
 {
-  "name": "verdaccio",
-  "version": "4.3.6",
-  "description": "A lightweight private npm proxy registry",
-  "author": {
-    "name": "Verdaccio Maintainers",
-    "email": "verdaccio.npm@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/verdaccio/verdaccio"
-  },
-  "homepage": "https://verdaccio.org",
+  "name": "ascom-verdaccio",
+  "version": "4.3.7",
+  "description": "It's fork from git://github.com/verdaccio/verdaccio repo. This pack just has bundleDependencies",
   "main": "build/index.js",
   "bin": {
     "verdaccio": "./bin/verdaccio"
